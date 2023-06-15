@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DataEntryActivity</string>
+    <string name="HeadingUser">Enter Your Details</string>
+    <string name="UserName">Enter Your Name</string>
+    <string name="RollUser">Enter Your Roll Number</string>
+    <string name="WeightUser">Enter Your Weight(kg)</string>
+    <string name="MoveUserData">Move Data</string>
+    <string name="ShowName">Your Name Is</string>
+    <string name="ShowRollNumber">Your Roll Number Is</string>
+    <string name="ShowWeight">Your Weight Is</string>
+    <string name="Data">Data Feched From Previous Activity</string>
+    <string name="MoveBack">Back</string>
+</resources>
